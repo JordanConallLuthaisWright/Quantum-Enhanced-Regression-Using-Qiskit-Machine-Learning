@@ -60,7 +60,20 @@ The transformation process focuses on:
 
 ## **How to Run This Project**  
 
-1. **Clone the repository**
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/JordanConallLuthaisWright/Quantum-Enhanced-Regression-Using-Qiskit-Machine-Learning.git
+2. **Navigate to the project directory**
+   ```bash
+   cd Quantum-Enhanced-Regression-Using-Qiskit-Machine-Learning
+3. **Install dependencies**
+   ```bash
+   pip install qiskit numpy matplotlib
+4. **Launch Jupyter Notebook**
+   ```bash
+   jupyter notebook
+5. Open and execute the cells, "Quantum-Enhanced Regression Using Qiskit Machine Learning.ipynb"
+
 
 ---
 
