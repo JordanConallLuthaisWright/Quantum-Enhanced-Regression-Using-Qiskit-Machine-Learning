@@ -137,9 +137,10 @@ While quantum computing is still developing, this study highlights **early succe
 ## **Contact & Contributions**  
 Feel free to explore and contribute! If you have any suggestions, reach out or submit a pull request.  
 
-📧 **Email:** your-email@example.com  
-🐙 **GitHub Profile:** [your-username](https://github.com/your-username)  
-👤 **Author:** Jordan  
+- **Email**: [jordan.c.l.wright@gmail.com](mailto:jordan.c.l.wright@gmail.com)  
 
 ---
+
+### **Author:** Jordan  
+[GitHub Profile](https://github.com/JordanConallLuthaisWright)  
 
